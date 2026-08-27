@@ -9,10 +9,17 @@
   <i>Continuously building, experimenting, and diving deep into the EVM from first principles.</i>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/basantzp?label=Followers&style=flat-square&color=238636&logo=github)](https://github.com/basantzp)
-[![GitHub stars](https://img.shields.io/github/stars/basantzp?style=flat-square&color=e3b341&logo=github)](https://github.com/basantzp?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=basantzp&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/basantzp)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://github.com/basantzp">
+    <img src="https://komarev.com/ghpvc/?username=basantzp&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/basantzp"><img src="https://img.shields.io/github/followers/basantzp?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/basantzp?tab=repositories"><img src="https://img.shields.io/github/stars/basantzp?style=flat-square&color=e3b341&logo=github" alt="Stars" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
+</p>
 
 ---
 
