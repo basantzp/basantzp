@@ -114,6 +114,26 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 
 ---
 
+## 💖 Support the Journey & Crypto Tip Jar
+
+If you find my open-source tools, smart contract experiments, testnets, or learning resources helpful and want to fuel my Web3 research and open-source contributions, donations and tips are warmly welcomed! Every bit of support is greatly appreciated. 🙏✨
+
+### 🪙 Multi-Chain Donation Addresses
+
+| Network | Supported Assets | Address / Explorer |
+| :--- | :--- | :--- |
+| **🔹 Ethereum / EVM** | `ETH`, `USDT`, `USDC`, `MATIC`, `BNB`, `Base`, `Arbitrum`, `Optimism` | [`0xD8401133F356B4e18f0B087E78C9e7d77c62031b`](https://etherscan.io/address/0xD8401133F356B4e18f0B087E78C9e7d77c62031b)<br>👉 [View on Etherscan](https://etherscan.io/address/0xD8401133F356B4e18f0B087E78C9e7d77c62031b) |
+| **🟣 Solana** | `SOL`, `SPL Tokens`, `USDC`, `USDT` | [`D9RwKA5qQJJf2gNBNUcjaPm3KB8SXyw8U47sGXuSSAk8`](https://solscan.io/account/D9RwKA5qQJJf2gNBNUcjaPm3KB8SXyw8U47sGXuSSAk8)<br>👉 [View on Solscan](https://solscan.io/account/D9RwKA5qQJJf2gNBNUcjaPm3KB8SXyw8U47sGXuSSAk8) |
+| **🟢 Filecoin** | `FIL` | [`f1p3ok7v3tratrzkrioqxt5gtylxjytothvibcwni`](https://filfox.info/en/address/f1p3ok7v3tratrzkrioqxt5gtylxjytothvibcwni)<br>👉 [View on Filfox Explorer](https://filfox.info/en/address/f1p3ok7v3tratrzkrioqxt5gtylxjytothvibcwni) |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EVM-0xD840...031b-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="EVM Address" />
+  <img src="https://img.shields.io/badge/Solana-D9Rw...SAk8-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana Address" />
+  <img src="https://img.shields.io/badge/Filecoin-f1p3...cwni-0090FF?style=flat-square&logo=filecoin&logoColor=white" alt="Filecoin Address" />
+</p>
+
+---
+
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
