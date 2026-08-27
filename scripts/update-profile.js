@@ -54,6 +54,11 @@ async function main() {
 
     // Map projects with customized metadata
     const projectMetadata = {
+      'bitcoin-testnet-cpp': {
+        name: 'bitcoin-testnet-cpp',
+        desc: 'High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17.',
+        stack: ['C++17', 'OpenSSL', 'Bitcoin Core', 'Testnet4', 'Script VM']
+      },
       'ethereum-testnet-bee': {
         name: 'ethereum-testnet-bee',
         desc: 'Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities.',
@@ -82,7 +87,7 @@ async function main() {
     };
 
     let tableRows = '';
-    const featuredKeys = ['ethereum-testnet-bee', 'blockchain-testnet', 'omarchy', 'ac-control-arch-linux'];
+    const featuredKeys = ['bitcoin-testnet-cpp', 'ethereum-testnet-bee', 'blockchain-testnet', 'omarchy', 'ac-control-arch-linux'];
 
     for (const key of featuredKeys) {
       const info = projectMetadata[key];

@@ -42,6 +42,7 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 
 ### ⛓️ Blockchain & Web3 Ecosystem
 <p>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=Hardhat&logoColor=black" alt="Hardhat" />
@@ -53,6 +54,7 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 
 ### 💻 Languages & Frameworks
 <p>
+  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -78,6 +80,7 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
 | **[omarchy](https://github.com/basantzp/omarchy)** | Tailored, hyper-automated Arch Linux & Hyprland environment configured for high-efficiency Web3, scripting, and development workflows. | `Bash` `Hyprland` `Waybar` `Systemd` | 🟢 Active |
