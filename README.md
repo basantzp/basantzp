@@ -80,9 +80,6 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[solidity-ethereum-testnet](https://github.com/basantzp/solidity-ethereum-testnet)** | 100% Solidity-Native Ethereum Testnet Engine, State Ledger, Block Simulator & On-Chain Consensus Sandbox with Live Web Explorer. | `Solidity` `Hardhat` `Ethers.js` `Express` `Web3` `EVM` | 🟢 Active |
-| **[network-recon-chain](https://github.com/basantzp/network-recon-chain)** | Modern Network Hacking Recon Suite: Tactical tool chaining of Wireshark/Tshark, ARP-Scan, Nmap, and Dirb with Blue Team footprint analysis. | `Python` `Wireshark` `Nmap` `Dirb` `Security` `Arch Linux` | 🟢 Active |
-| **[world-record-wallpapers-4k](https://github.com/basantzp/world-record-wallpapers-4k)** | Curated Ultra HD (4K) wallpapers holding 5+ World Records & valued over $100M+ with 5-hour automated rotation system. | `Bash` `Systemd` `4K UHD` `Hyprland` `Automation` | 🟢 Active |
 | **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
