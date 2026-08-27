@@ -75,11 +75,15 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 
 ## 🚀 Featured Web3 & Blockchain Projects
 
+<!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
 | **[omarchy](https://github.com/basantzp/omarchy)** | Tailored, hyper-automated Arch Linux & Hyprland environment configured for high-efficiency Web3, scripting, and development workflows. | `Bash` `Hyprland` `Waybar` `Systemd` | 🟢 Active |
+| **[ac-control-arch-linux](https://github.com/basantzp/ac-control-arch-linux)** | High-Performance Arch Linux Midea AC Controller, Web Dashboard & Window Manager Integration Suite. | `Python` `Flask` `Linux` `IoT` | 🟢 Active |
+| **[arch-configuration-i3-easy-setup](https://github.com/basantzp/arch-configuration-i3-easy-setup)** | Streamlined Arch Linux desktop configuration and automated developer workstation setup. | `Shell` `i3wm` `Arch Linux` `Config` | 🟢 Active |
+<!-- PROJECTS:END -->
 
 ---
 
