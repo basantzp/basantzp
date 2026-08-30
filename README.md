@@ -80,7 +80,6 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[latex-cv-builder](https://github.com/basantzp/latex-cv-builder)** | ⚡ AI-Enhanced LaTeX CV & Resume Builder with Live Dual-Pane Preview, ATS Optimizer, Supabase Cloud Sync & Vercel Serverless. | `Python` `FastAPI` `Tectonic` `TailwindCSS` `Supabase` `LaTeX` | 🟢 Active |
 | **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
