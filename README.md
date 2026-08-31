@@ -80,12 +80,16 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
-| **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
-| **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
-| **[omarchy](https://github.com/basantzp/omarchy)** | Tailored, hyper-automated Arch Linux & Hyprland environment configured for high-efficiency Web3, scripting, and development workflows. | `Bash` `Hyprland` `Waybar` `Systemd` | 🟢 Active |
-| **[ac-control-arch-linux](https://github.com/basantzp/ac-control-arch-linux)** | High-Performance Arch Linux Midea AC Controller, Web Dashboard & Window Manager Integration Suite. | `Python` `Flask` `Linux` `IoT` | 🟢 Active |
-| **[arch-configuration-i3-easy-setup](https://github.com/basantzp/arch-configuration-i3-easy-setup)** | Streamlined Arch Linux desktop configuration and automated developer workstation setup. | `Shell` `i3wm` `Arch Linux` `Config` | 🟢 Active |
+| **[github-achievements](https://github.com/basantzp/github-achievements)** | 🏆 Automated GitHub Achievements & Badges Suite with co-authored PRs, Discussions GraphQL API & badge automators. | `Python` `Bash` `GitHub API` `GraphQL` `CI/CD` | 🟢 Active |
+| **[latex-cv-builder](https://github.com/basantzp/latex-cv-builder)** | ⚡ AI-Enhanced LaTeX CV & Resume Builder with Live Dual-Pane Preview, ATS Optimizer, Supabase Cloud Sync & Vercel Serverless. | `Python` `FastAPI` `Tectonic` `TailwindCSS` `Supabase` `LaTeX` | 🟢 Active |
+| **[Gold-Forex-Prop-Trading](https://github.com/basantzp/Gold-Forex-Prop-Trading)** | 🏆 The Ultimate Gold & Forex Price Action, SMC & ICT Trading Hub with interactive analytics and prop firm drawdown safeguards. | `Python` `Streamlit` `NumPy` `Pandas` `Plotly` `Quantitative Finance` | 🟢 Active |
+| **[solidity-ethereum-testnet](https://github.com/basantzp/solidity-ethereum-testnet)** | ⚡ 100% Solidity-Native Full-Stack EVM Testnet Suite with Hardhat, Ethers.js, and gas-optimized smart contracts. | `Solidity` `EVM` `Hardhat` `Ethers.js` `Smart Contracts` | 🟢 Active |
+| **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | ₿ High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
+| **[network-recon-chain](https://github.com/basantzp/network-recon-chain)** | ⚡ Modern Network Host Discovery, Async Port Scanner & Autonomous Audit CLI Engine. | `Python` `AsyncIO` `Socket API` `Cybersecurity` `CLI` | 🟢 Active |
+| **[world-record-wallpapers-4k](https://github.com/basantzp/world-record-wallpapers-4k)** | 👑 Curated Ultra HD 4K/8K Desktop Wallpapers & Visual Landscapes with automated HDR AVIF/WebP pipelines. | `WebP` `AVIF` `HDR` `Image Processing` `CI/CD` | 🟢 Active |
+| **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | ⛓️ Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
+| **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | 🐝 Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline and Swarm storage integration. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
+| **[omarchy](https://github.com/basantzp/omarchy)** | 🐧 Tailored, hyper-automated Arch Linux & Hyprland environment configured for high-efficiency Web3 and development workflows. | `Bash` `Hyprland` `Waybar` `Systemd` | 🟢 Active |
 <!-- PROJECTS:END -->
 
 ---
@@ -111,6 +115,40 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
        ├── Cross-Chain Communication & Oracles (Chainlink / LayerZero)
        └── Formal Verification & Security Auditing Tooling (Slither, Foundry)
 ```
+
+---
+
+## 🏆 GitHub Achievements & Badges
+
+<div align="center">
+
+<a href="https://github.com/basantzp?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="90" alt="Pull Shark (Silver)" title="Pull Shark (Silver) — Merged 16+ Pull Requests" />
+</a>
+<a href="https://github.com/basantzp?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored Merged Pull Requests" />
+</a>
+<a href="https://github.com/basantzp?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="90" alt="Galaxy Brain (Gold)" title="Galaxy Brain (Gold) — 16+ Accepted Discussion Answers" />
+</a>
+<a href="https://github.com/basantzp?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw — Closed Issue/PR within 5 Minutes" />
+</a>
+<a href="https://github.com/basantzp?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO — Merged PR Without Requiring Review" />
+</a>
+<a href="https://github.com/basantzp?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="90" alt="Starstruck (Gold)" title="Starstruck — Reached Repository Star Milestones" />
+</a>
+<a href="https://github.com/basantzp?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="90" alt="Public Sponsor" title="Public Sponsor — Sponsored Open Source Maintainers" />
+</a>
+
+<p align="center">
+  <i>Badges earned and maintained across open source contributions and testnet engineering.</i>
+</p>
+
+</div>
 
 ---
 
