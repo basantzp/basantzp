@@ -83,8 +83,6 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[172.20.3.17](https://github.com/basantzp/172.20.3.17)** | Universal Multi-Vendor ISP Network Operations, Telemetry, and Automation Suite (Switches, Huawei/Cisco Core Routers, GPON OLTs, FastOptics 2.0). | `Python` `Jinja2` `Netmiko` `Zabbix` `FastOptics` | 🟢 Active |
-| **[cisco-switch](https://github.com/basantzp/cisco-switch)** | Enterprise Multi-Vendor Switch Provisioning, Zero-Mistake Loop Defense, Serial Console CLI & Multi-ISP Redundancy Suite. | `Python` `PySerial` `Bash` `Cisco IOS` `RSTP` | 🟢 Active |
 | **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
