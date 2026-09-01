@@ -83,10 +83,6 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[genie-effect](https://github.com/basantzp/genie-effect)** | ✨ macOS Genie Effect WebGL 2.0 & Metal Shader Studio, iOS Touch Gesture Playground & Real-Time Mesh Distortion Suite. | `WebGL 2.0` `Metal` `GLSL` `WebGPU` `SwiftUI` `Vite` | 🟢 Active |
-| **[testnetxblockchain](https://testnetxblockchain.vercel.app/)** ([Code](https://github.com/basantzp/testnetxblockchain)) | ⚡ Live Universal Multi-Chain Testnet Suite & Block Explorer (Ethereum, Bitcoin, Solana, Filecoin) with Supabase Cloud Sync. | `Solidity` `Python` `Rust` `TypeScript` `Vercel` `Supabase` | 🟢 Live |
-| **[172.20.3.17](https://github.com/basantzp/172.20.3.17)** | Universal Multi-Vendor ISP Network Operations, Telemetry, and Automation Suite (Huawei/Cisco Core Routers, BDCOM Switches, GPON OLTs). | `Python` `Jinja2` `Netmiko` `Zabbix` `FastOptics` | 🟢 Active |
-| **[cisco-switch](https://github.com/basantzp/cisco-switch)** | Enterprise Multi-Vendor Switch Provisioning, Zero-Mistake Loop Defense, Serial Console CLI & Multi-ISP Redundancy Suite. | `Python` `PySerial` `Bash` `Cisco IOS` `RSTP` | 🟢 Active |
 | **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
