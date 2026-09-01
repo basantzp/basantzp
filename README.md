@@ -63,23 +63,28 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white" alt="Bash" />
 </p>
 
-### ⚙️ DevOps, OS & Developer Tools
+### ⚙️ DevOps, Networking & Infrastructure
 <p>
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS" />
+  <img src="https://img.shields.io/badge/Huawei_VRP-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei VRP" />
+  <img src="https://img.shields.io/badge/MikroTik-29323C?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Hyprland-5E81AC?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-## 🚀 Featured Web3 & Blockchain Projects
+## 🚀 Featured Engineering & Open-Source Projects
 
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[172.20.3.17](https://github.com/basantzp/172.20.3.17)** | Universal Multi-Vendor ISP Network Operations, Telemetry, and Automation Suite (Switches, Huawei/Cisco Core Routers, GPON OLTs, FastOptics 2.0). | `Python` `Jinja2` `Netmiko` `Zabbix` `FastOptics` | 🟢 Active |
+| **[cisco-switch](https://github.com/basantzp/cisco-switch)** | Enterprise Multi-Vendor Switch Provisioning, Zero-Mistake Loop Defense, Serial Console CLI & Multi-ISP Redundancy Suite. | `Python` `PySerial` `Bash` `Cisco IOS` `RSTP` | 🟢 Active |
 | **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
