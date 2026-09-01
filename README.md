@@ -112,41 +112,7 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
        └── Formal Verification & Security Auditing Tooling (Slither, Foundry)
 ```
 
----
 
-## 🏆 GitHub Achievements & Badges
-
-<div align="center">
-
-<a href="https://github.com/basantzp?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="90" alt="Pull Shark (Silver)" title="Pull Shark (Silver) — Merged 16+ Pull Requests" />
-</a>
-<a href="https://github.com/basantzp?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored Merged Pull Requests" />
-</a>
-<a href="https://github.com/basantzp?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="90" alt="Galaxy Brain (Gold)" title="Galaxy Brain (Gold) — 16+ Accepted Discussion Answers" />
-</a>
-<a href="https://github.com/basantzp?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw — Closed Issue/PR within 5 Minutes" />
-</a>
-<a href="https://github.com/basantzp?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO — Merged PR Without Requiring Review" />
-</a>
-<a href="https://github.com/basantzp?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="90" alt="Starstruck (Gold)" title="Starstruck — Reached Repository Star Milestones" />
-</a>
-<a href="https://github.com/basantzp?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="90" alt="Public Sponsor" title="Public Sponsor — Sponsored Open Source Maintainers" />
-</a>
-
-<p align="center">
-  <i>Badges earned and maintained across open source contributions and testnet engineering.</i>
-</p>
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
