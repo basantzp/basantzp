@@ -81,34 +81,13 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 ## 🚀 Featured Engineering & Open-Source Projects
 
 <!-- PROJECTS:START -->
-### ⛓️ Web3, Blockchain & EVM Systems
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
-| **[solidity-ethereum-testnet](https://github.com/basantzp/solidity-ethereum-testnet)** | 100% Solidity-Native Ethereum Testnet Engine, State Ledger, Block Simulator & Real-Time Block Explorer. | `Solidity` `JavaScript` `Ethers.js` `State Ledger` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |
-
-### 🌐 ISP Operations, Networking & Cybersecurity
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[172.20.3.17](https://github.com/basantzp/172.20.3.17)** | Universal Multi-Vendor ISP Network Operations, Telemetry, and Automation Suite (Switches, Huawei/Cisco Core Routers, GPON OLTs, FastOptics 2.0). | `Python` `Jinja2` `Netmiko` `Zabbix` `FastOptics` | 🟢 Active |
-| **[cisco-switch](https://github.com/basantzp/cisco-switch)** | Enterprise Multi-Vendor Switch Provisioning, Zero-Mistake Loop Defense, Serial Console CLI & Multi-ISP Redundancy Suite. | `Python` `PySerial` `Bash` `Cisco IOS` `RSTP` | 🟢 Active |
-| **[network-recon-chain](https://github.com/basantzp/network-recon-chain)** | Modern Network Hacking & Tactical Tool Chaining Suite (Wireshark, Tshark, ARP-Scan, Nmap, Dirb) for Professional Reconnaissance. | `Python` `Bash` `Wireshark` `Nmap` `Security` | 🟢 Active |
-
-### 📈 Quantitative Trading & Algorithmic Engines
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[brun-prop-forex-autonomous](https://github.com/basantzp/brun-prop-forex-autonomous)** | Autonomous Quantitative Forex Trading Engine & Risk-Controlled Execution Suite designed for Prop Firm Evaluation. | `Python` `TypeScript` `Quantitative Trading` `Risk Engine` | 🟢 Active |
-| **[Gold-Forex-Prop-Trading](https://github.com/basantzp/Gold-Forex-Prop-Trading)** | Comprehensive Gold (XAUUSD) Forex & Prop Firm Quantitative Roadmap, Strategy Models & Backtesting Toolkit. | `TypeScript` `Python` `MetaTrader` `Backtesting` | 🟢 Active |
-
-### 🐧 Linux Systems, Developer Tooling & Automation
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
 | **[omarchy](https://github.com/basantzp/omarchy)** | Tailored, hyper-automated Arch Linux & Hyprland environment configured for high-efficiency Web3, scripting, and development workflows. | `Bash` `Hyprland` `Waybar` `Systemd` | 🟢 Active |
-| **[latex-cv-builder](https://github.com/basantzp/latex-cv-builder)** | AI-Enhanced LaTeX CV & Resume Builder with Live Dual-Pane Preview, ATS Optimizer, Supabase Sync & Vercel Deployment. | `TypeScript` `Next.js` `LaTeX` `Supabase` `Tailwind` | 🟢 Active |
 | **[ac-control-arch-linux](https://github.com/basantzp/ac-control-arch-linux)** | High-Performance Arch Linux Midea AC Controller, Web Dashboard & Window Manager Integration Suite. | `Python` `Flask` `Linux` `IoT` | 🟢 Active |
-| **[world-record-wallpapers-4k](https://github.com/basantzp/world-record-wallpapers-4k)** | Curated Ultra HD (4K) Wallpapers & automated rotation engine with window manager integration. | `Python` `Hyprland` `Automation` | 🟢 Active |
 | **[arch-configuration-i3-easy-setup](https://github.com/basantzp/arch-configuration-i3-easy-setup)** | Streamlined Arch Linux desktop configuration and automated developer workstation setup. | `Shell` `i3wm` `Arch Linux` `Config` | 🟢 Active |
 <!-- PROJECTS:END -->
 
