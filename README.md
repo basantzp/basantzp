@@ -83,6 +83,9 @@ I am a **Blockchain Enthusiast & Web3 Learner** driven by an insatiable curiosit
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[individuals](https://github.com/basantzp/individuals)** | Autonomous Multi-Domain AI Career Engine across 8 disciplines (Web3, AI/ML, Fullstack, Cloud, Security), Gemini cold pitch studio, custom binary CV attachments, and Gmail SMTP auto-dispatch. | `Next.js 16` `React 19` `TypeScript` `Google Gemini` `Supabase` `Vercel` `Nodemailer` | 🟢 Active |
+| **[autoapply-ai](https://github.com/basantzp/autoapply-ai)** | Autonomous AI Job & Internship Application SaaS Engine featuring live vacancy matching, dynamic LaTeX CV/Cover Letter generation, and Gmail SMTP auto-dispatching. | `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Vercel` `Nodemailer` | 🟢 Active |
+| **[web3-auto-job-apply](https://github.com/basantzp/web3-auto-job-apply)** | Autonomous continuous Web3 job hunter: real-time vacancy discovery, tailored LaTeX PDF compilation, and direct verified SMTP dispatch. | `Python` `XeLaTeX` `Gmail SMTP` `Automation` | 🟢 Active |
 | **[bitcoin-testnet-cpp](https://github.com/basantzp/bitcoin-testnet-cpp)** | High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17. | `C++17` `OpenSSL` `Bitcoin Core` `Testnet4` `Script VM` | 🟢 Active |
 | **[ethereum-testnet-bee](https://github.com/basantzp/ethereum-testnet-bee)** | Full-stack local Ethereum testnet suite featuring custom smart contract deployment pipeline, live block explorer API, and faucet utilities. | `Solidity` `Hardhat` `Node.js` `Express` `Ethers.js` | 🟢 Active |
 | **[blockchain-testnet](https://github.com/basantzp/blockchain-testnet)** | Interactive blockchain testing sandbox with automated CLI runners, transaction inspector, and contract verification framework. | `JavaScript` `Hardhat` `Ethers.js` `REST API` | 🟢 Active |

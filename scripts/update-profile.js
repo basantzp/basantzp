@@ -54,6 +54,21 @@ async function main() {
 
     // Map projects with customized metadata
     const projectMetadata = {
+      'individuals': {
+        name: 'individuals',
+        desc: 'Autonomous Multi-Domain AI Career Engine across 8 disciplines (Web3, AI/ML, Fullstack, Cloud, Security), Gemini cold pitch studio, custom binary CV attachments, and Gmail SMTP auto-dispatch.',
+        stack: ['Next.js 16', 'React 19', 'TypeScript', 'Google Gemini', 'Supabase', 'Vercel', 'Nodemailer']
+      },
+      'autoapply-ai': {
+        name: 'autoapply-ai',
+        desc: 'Autonomous AI Job & Internship Application SaaS Engine featuring live vacancy matching, dynamic LaTeX CV/Cover Letter generation, and Gmail SMTP auto-dispatching.',
+        stack: ['Next.js 15', 'React 19', 'TypeScript', 'Tailwind CSS', 'Supabase', 'Vercel', 'Nodemailer']
+      },
+      'web3-auto-job-apply': {
+        name: 'web3-auto-job-apply',
+        desc: 'Autonomous continuous Web3 job hunter: real-time vacancy discovery, tailored LaTeX PDF compilation, and direct verified SMTP dispatch.',
+        stack: ['Python', 'XeLaTeX', 'Gmail SMTP', 'Automation']
+      },
       'bitcoin-testnet-cpp': {
         name: 'bitcoin-testnet-cpp',
         desc: 'High-Performance Bitcoin Core Testnet4 Suite, Block Explorer & Script Opcode VM written natively in C++17.',
@@ -87,7 +102,16 @@ async function main() {
     };
 
     let tableRows = '';
-    const featuredKeys = ['bitcoin-testnet-cpp', 'ethereum-testnet-bee', 'blockchain-testnet', 'omarchy', 'ac-control-arch-linux'];
+    const featuredKeys = [
+      'individuals',
+      'autoapply-ai',
+      'web3-auto-job-apply',
+      'bitcoin-testnet-cpp',
+      'ethereum-testnet-bee',
+      'blockchain-testnet',
+      'omarchy',
+      'ac-control-arch-linux'
+    ];
 
     for (const key of featuredKeys) {
       const info = projectMetadata[key];
