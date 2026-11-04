@@ -101,3 +101,15 @@ All protocol repositories enforce:
 <div align="center">
   <sub>"In code we trust, on-chain we verify." • Basant Pokhrel — Open Source Protocol Engineering</sub>
 </div>
+
+---
+
+## 🌐 Active Open-Source Protocol Contributions
+
+| Ecosystem & Target | Scope & Architecture | Pull Request |
+| :--- | :--- | :--- |
+| **[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)** | **Core Protocol Literature & Standards**<br>Addressed maintainer review feedback from `@alessandromazza98` on Chapter 2 (*Ethereum Basics*) Further Reading. | 🚀 **[PR #1332](https://github.com/ethereumbook/ethereumbook/pull/1332)** |
+| **[Awesome Solidity](https://github.com/bkrem/awesome-solidity)** | **Curated EVM Directory (7,000+ ⭐)**<br>Added `100-solidity-projects` to Resources > Examples > Educational with full invariant fuzzing coverage. | 🚀 **[PR #226](https://github.com/bkrem/awesome-solidity/pull/226)** |
+| **[Awesome Uniswap Hooks](https://github.com/fewwwww/awesome-uniswap-hooks)** | **Uniswap v4 Dynamic Hook Ecosystem**<br>Contributed `v4-volatility-fee-hook` (Anti-LVR & toxic MEV mitigation) to Community Examples. | 🚀 **[PR #99](https://github.com/fewwwww/awesome-uniswap-hooks/pull/99)** |
+| **[Awesome Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction)** | **ERC-4337 Standards Index (1,000+ ⭐)**<br>Contributed `aether-erc4337-paymaster` (Enterprise EntryPoint v0.7 Paymaster with Chainlink settlement) to Code > Paymasters. | 🚀 **[PR #1190](https://github.com/4337Mafia/awesome-account-abstraction/pull/1190)** |
+| **[Awesome Foundry](https://github.com/crisgarner/awesome-foundry)** | **Foundry Framework Registry (1,100+ ⭐)**<br>Added `100-solidity-projects` (201/201 Foundry unit & invariant tests on Cancun EVM) to Projects Using Foundry. | 🚀 **[PR #58](https://github.com/crisgarner/awesome-foundry/pull/58)** |
