@@ -28,36 +28,32 @@
 | **[aether-erc4337-paymaster](https://github.com/basantzp/aether-erc4337-paymaster)** | **Enterprise ERC-4337 Account Abstraction Paymaster**<br>Production AA gas sponsorship paymaster with EIP-712 cryptographic signature verification, Chainlink oracle ERC-20 multi-token payments, and strict invariant state checks. | **Foundry Tested**<br>Stateful invariant validation<br>ERC-4337 v0.7 compliant | 📦 **[GitHub Repo](https://github.com/basantzp/aether-erc4337-paymaster)** |
 | **[aegis-zk-accumulator](https://github.com/basantzp/aegis-zk-accumulator)** | **EVM Sparse Merkle Tree Cryptographic Accumulator**<br>High-performance Sparse Merkle Tree (SMT) accumulator and vault written in C11 and Solidity for efficient zero-knowledge membership proofs and stateless verification on EVM chains. | **Formal Verification**<br>C11 native memory performance<br>O(log N) verification complexity | 📦 **[GitHub Repo](https://github.com/basantzp/aegis-zk-accumulator)** |
 | **[local-evm-studio](https://github.com/basantzp/local-evm-studio)** | **Foundry Anvil Web Control Center**<br>Zero-dependency browser command center for local EVM instances: JSON-RPC console, sandbox state snapshots (`anvil_mine`, `evm_snapshot`), and 1-click MetaMask connector. | **Production Deployed**<br>Sub-millisecond RPC telemetry<br>Zero cloud dependency | 🌐 **[Live Application](https://local-evm-studio.vercel.app)**<br>📦 **[GitHub Repo](https://github.com/basantzp/local-evm-studio)** |
-| **[degencheck-web3](https://github.com/basantzp/degencheck-web3)** | **High-Throughput Multi-Chain Security Engine**<br>Sub-second smart contract security scanner and DEX execution companion for Solana, Base, and EVM chains. Real-time honeypot, mint-trap, and LP lock verification. | **Production Deployed**<br>Real-time GoPlus & RugCheck integration<br>Anti-MEV Telegram bot routing | 🌐 **[Live Application](https://degencheck-web3.vercel.app)**<br>📦 **[GitHub Repo](https://github.com/basantzp/degencheck-web3)** |
+| **[degencheck-web3](https://github.com/basantzp/degencheck-web3)** | **High-Throughput Multi-Chain Security Engine**<br>Sub-second smart contract security scanner and DEX execution companion for Solana, Base, and Ethereum. Honeypot detection, liquidity locks, and simulated swaps. | **Live Production**<br>Real-time RPC parsing<br>Multi-chain transaction decoding | 🌐 **[Live Application](https://degencheck-web3.vercel.app)**<br>📦 **[GitHub Repo](https://github.com/basantzp/degencheck-web3)** |
 
 ---
 
-## 🔬 Protocol Engineering Stack & Mental Models
+## 🌐 Active Open-Source Protocol Contributions
 
-```
-                           ╔═════════════════════════════════════════════════╗
-                           ║      DECENTRALIZED SYSTEMS ARCHITECTURE        ║
-                           ╚═════════════════════════════════════════════════╝
-                                                      │
-         ┌───────────────────┬────────────────────────┴───────────────────────┬───────────────────┐
-         ▼                   ▼                                                ▼                   ▼
-┌─────────────────┐ ┌─────────────────────────┐              ┌────────────────────────┐ ┌─────────────────┐
-│  DeFi & AMMs    │ │   Cancun EVM Low-Level  │              │  Account Abstraction   │ │ Bitcoin Core    │
-├─────────────────┤ ├─────────────────────────┤              ├────────────────────────┤ ├─────────────────┤
-│• Uniswap v4 Hook│ │• EIP-1153 tstore/tload  │              │• ERC-4337 Bundlers     │ │• Testnet4 Engine│
-│• Anti-LVR Curves│ │• Yul Fixed-Point Math   │              │• ERC-7579 Modular AA   │ │• Script VM Eval │
-│• Curve Invariant│ │• Custom Memory Allocator│              │• EIP-712 Paymasters    │ │• Taproot BIP-350│
-│• Morpho Blue Mkts││• Namespaced Storage     │              │• Session Key Guards    │ │• SegWit BIP-173 │
-└─────────────────┘ └─────────────────────────┘              └────────────────────────┘ └─────────────────┘
-```
+| Ecosystem & Target | Scope & Architecture | Pull Request |
+| :--- | :--- | :--- |
+| **[OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)** | **Industry Standard Smart Contract Security (24,000+ ⭐)**<br>Authored comprehensive Chain Compatibility Guide (`chain-compatibility.adoc`) covering EVM opcode baselines (Cancun EIP-1153/5656), precompiles (RIP-7212 P256 vs standard), L2 execution deviations (sub-second blocks, gas stipends, native ERC20 dual-tokens), and Foundry fork testing. Resolves #6853. | 🚀 **[PR #6856](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6856)** |
+| **[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)** | **Core Protocol Literature & Standards**<br>Addressed maintainer review feedback from `@alessandromazza98` on Chapter 2 (*Ethereum Basics*) Further Reading. | 🚀 **[PR #1332](https://github.com/ethereumbook/ethereumbook/pull/1332)** |
+| **[Awesome Solidity](https://github.com/bkrem/awesome-solidity)** | **Curated EVM Directory (7,000+ ⭐)**<br>Added `100-solidity-projects` to Resources > Examples > Educational with full invariant fuzzing coverage. | 🚀 **[PR #226](https://github.com/bkrem/awesome-solidity/pull/226)** |
+| **[Awesome Uniswap Hooks](https://github.com/fewwwww/awesome-uniswap-hooks)** | **Uniswap v4 Dynamic Hook Ecosystem**<br>Contributed `v4-volatility-fee-hook` (Anti-LVR & toxic MEV mitigation) to Community Examples. | 🚀 **[PR #99](https://github.com/fewwwww/awesome-uniswap-hooks/pull/99)** |
+| **[Awesome Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction)** | **ERC-4337 Standards Index (1,000+ ⭐)**<br>Contributed `aether-erc4337-paymaster` (Enterprise EntryPoint v0.7 Paymaster with Chainlink settlement) to Code > Paymasters. | 🚀 **[PR #1190](https://github.com/4337Mafia/awesome-account-abstraction/pull/1190)** |
+| **[Awesome Foundry](https://github.com/crisgarner/awesome-foundry)** | **Foundry Framework Registry (1,100+ ⭐)**<br>Added `100-solidity-projects` (201/201 Foundry unit & invariant tests on Cancun EVM) to Projects Using Foundry. | 🚀 **[PR #58](https://github.com/crisgarner/awesome-foundry/pull/58)** |
 
-### 1. Advanced EVM & Cancun Optimization
-- **Transient Storage (EIP-1153)**: Single-transaction reentrancy locks reducing overhead from 2,100 gas (`sstore`) to 100 gas (`tstore`), intra-tx fee accumulators, and zero-storage transient routers.
-- **Yul Inline Assembly**: Custom memory bump allocators bypassing standard Solidity memory expansion penalties, high-performance function selector jump tables, and bitwise fixed-point WAD ($10^{18}$) / RAY ($10^{27}$) arithmetic.
-- **Storage Engineering**: Multi-variable bit-packing into single 32-byte slots and ERC-7201 formulaic namespaced storage collision detectors.
+---
 
-### 2. High-Frequency DeFi & Liquidity Primitives
-- **Anti-LVR Mechanics**: Continuous tick displacement tracking and exponential half-life volatility decay curves dynamically adjusting pool fee tiers to capture toxic flow as LP yields.
+## 🔬 Core Engineering Domains
+
+### 1. Cancun EVM & Gas Optimization
+- **Transient Storage (EIP-1153)**: Reentrancy protection locks using ephemeral `TSTORE` and `TLOAD`, bypassing persistent storage gas tariffs (saving 20,000+ gas per state transition).
+- **Assembly & Yul**: Custom memory management, bitwise packing, and zero-copy byte manipulation.
+- **Memory Optimization (EIP-5656)**: Direct memory-to-memory block transfers via `MCOPY`.
+
+### 2. Automated Market Makers & DeFi Primitives
+- **Uniswap v4 Hooks**: Custom hooks executed `beforeSwap`, `afterSwap`, `beforeInitialize`, and `afterInitialize`, dynamically adjusting pool fee tiers to capture toxic flow as LP yields.
 - **Concentrated & Multi-Asset AMMs**: Uniswap v3 $Q64.96$ tick ranges, Balancer generalized geometric invariant pools ($\prod B_i^{w_i} = k$), and Curve Newton-Raphson amplification pools.
 - **Lending & Margin Markets**: Overcollateralized CDP stablecoin minters, isolated peer-to-peer agreements, Dutch auction liquidation engines, and multi-collateral margin baskets.
 
@@ -101,15 +97,3 @@ All protocol repositories enforce:
 <div align="center">
   <sub>"In code we trust, on-chain we verify." • Basant Pokhrel — Open Source Protocol Engineering</sub>
 </div>
-
----
-
-## 🌐 Active Open-Source Protocol Contributions
-
-| Ecosystem & Target | Scope & Architecture | Pull Request |
-| :--- | :--- | :--- |
-| **[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)** | **Core Protocol Literature & Standards**<br>Addressed maintainer review feedback from `@alessandromazza98` on Chapter 2 (*Ethereum Basics*) Further Reading. | 🚀 **[PR #1332](https://github.com/ethereumbook/ethereumbook/pull/1332)** |
-| **[Awesome Solidity](https://github.com/bkrem/awesome-solidity)** | **Curated EVM Directory (7,000+ ⭐)**<br>Added `100-solidity-projects` to Resources > Examples > Educational with full invariant fuzzing coverage. | 🚀 **[PR #226](https://github.com/bkrem/awesome-solidity/pull/226)** |
-| **[Awesome Uniswap Hooks](https://github.com/fewwwww/awesome-uniswap-hooks)** | **Uniswap v4 Dynamic Hook Ecosystem**<br>Contributed `v4-volatility-fee-hook` (Anti-LVR & toxic MEV mitigation) to Community Examples. | 🚀 **[PR #99](https://github.com/fewwwww/awesome-uniswap-hooks/pull/99)** |
-| **[Awesome Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction)** | **ERC-4337 Standards Index (1,000+ ⭐)**<br>Contributed `aether-erc4337-paymaster` (Enterprise EntryPoint v0.7 Paymaster with Chainlink settlement) to Code > Paymasters. | 🚀 **[PR #1190](https://github.com/4337Mafia/awesome-account-abstraction/pull/1190)** |
-| **[Awesome Foundry](https://github.com/crisgarner/awesome-foundry)** | **Foundry Framework Registry (1,100+ ⭐)**<br>Added `100-solidity-projects` (201/201 Foundry unit & invariant tests on Cancun EVM) to Projects Using Foundry. | 🚀 **[PR #58](https://github.com/crisgarner/awesome-foundry/pull/58)** |
